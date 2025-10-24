@@ -1,0 +1,361 @@
+Date,Salary range,flat preference,furnishing preference,vacancy rate,rate of return,mode of payment,number of customers
+Jan-14,<50k,1BHK,Fully Furnished,2.35,3.2,EMI,36
+Jan-14,50k-100k,3BHK,Fully Furnished,2.16,2.63,EMI,33
+Jan-14,>100k,2BHK,Fully Furnished,3.71,6.09,Cash,35
+Feb-14,<50k,2BHK,Simple,5.23,6.88,EMI,31
+Feb-14,50k-100k,3BHK,Simple,6.66,4.98,Cash,30
+Feb-14,>100k,2BHK,Fully Furnished,5.27,3.3,EMI,34
+Mar-14,<50k,3BHK,Simple,5.66,3.9,EMI,30
+Mar-14,50k-100k,3BHK,Simple,5.31,6.86,EMI,34
+Mar-14,>100k,1BHK,Simple,4.7,3.9,Cash,25
+Apr-14,<50k,3BHK,Fully Furnished,6.39,2.73,Cash,30
+Apr-14,50k-100k,3BHK,Simple,5.94,4.8,EMI,35
+Apr-14,>100k,3BHK,Fully Furnished,6.76,2.38,EMI,28
+May-14,<50k,3BHK,Fully Furnished,2.77,4.52,EMI,32
+May-14,50k-100k,2BHK,Fully Furnished,1.21,6.09,EMI,38
+May-14,>100k,3BHK,Fully Furnished,3.14,2.59,Cash,36
+Jun-14,<50k,2BHK,Fully Furnished,7.73,2.28,Cash,33
+Jun-14,50k-100k,3BHK,Simple,3.22,5.71,Cash,35
+Jun-14,>100k,1BHK,Fully Furnished,6.27,6.58,Cash,31
+Jul-14,<50k,1BHK,Simple,7.05,6.38,Cash,30
+Jul-14,50k-100k,1BHK,Fully Furnished,4.1,2.28,Cash,34
+Jul-14,>100k,2BHK,Fully Furnished,5.18,5.34,EMI,25
+Aug-14,<50k,1BHK,Fully Furnished,7.83,3.72,EMI,30
+Aug-14,50k-100k,1BHK,Fully Furnished,4.31,3.16,Cash,35
+Aug-14,>100k,2BHK,Simple,9.3,5.24,Cash,28
+Sep-14,<50k,2BHK,Fully Furnished,4.79,4.15,EMI,32
+Sep-14,50k-100k,1BHK,Fully Furnished,1.29,2.29,EMI,38
+Sep-14,>100k,1BHK,Simple,8.3,6.05,EMI,36
+Oct-14,<50k,1BHK,Fully Furnished,4.67,3.11,Cash,33
+Oct-14,50k-100k,1BHK,Simple,1.38,4.01,EMI,35
+Oct-14,>100k,2BHK,Fully Furnished,4.15,2.7,EMI,31
+Nov-14,<50k,1BHK,Simple,6.94,5.84,Cash,30
+Nov-14,50k-100k,2BHK,Simple,7.29,3.82,Cash,34
+Nov-14,>100k,3BHK,Simple,9.58,5.48,Cash,25
+Dec-14,<50k,3BHK,Fully Furnished,3.74,7.59,EMI,30
+Dec-14,50k-100k,1BHK,Simple,3.69,2.2,EMI,35
+Dec-14,>100k,2BHK,Simple,2.17,6.95,Cash,28
+Jan-15,<50k,1BHK,Simple,7.13,4.8,EMI,32
+Jan-15,50k-100k,1BHK,Fully Furnished,7.63,6.4,EMI,38
+Jan-15,>100k,2BHK,Simple,4.57,5.49,Cash,36
+Feb-15,<50k,3BHK,Fully Furnished,4.28,2.95,EMI,33
+Feb-15,50k-100k,2BHK,Simple,4.52,5.82,EMI,35
+Feb-15,>100k,3BHK,Simple,3.49,2.16,Cash,31
+Mar-15,<50k,1BHK,Simple,2.68,5.85,EMI,30
+Mar-15,50k-100k,2BHK,Fully Furnished,8.58,3.16,EMI,34
+Mar-15,>100k,1BHK,Fully Furnished,2.08,2.9,EMI,25
+Apr-15,<50k,1BHK,Fully Furnished,3.09,5.21,EMI,30
+Apr-15,50k-100k,1BHK,Fully Furnished,2.2,7.17,Cash,35
+Apr-15,>100k,3BHK,Simple,9.34,6.72,EMI,28
+May-15,<50k,2BHK,Fully Furnished,2.57,3.06,EMI,32
+May-15,50k-100k,1BHK,Fully Furnished,7.66,2.87,EMI,38
+May-15,>100k,3BHK,Fully Furnished,5.69,3.19,EMI,36
+Jun-15,<50k,3BHK,Simple,2.63,7.21,EMI,33
+Jun-15,50k-100k,3BHK,Fully Furnished,9.11,7.37,Cash,35
+Jun-15,>100k,1BHK,Simple,8.6,3.22,EMI,31
+Jul-15,<50k,3BHK,Fully Furnished,5.38,4.44,Cash,30
+Jul-15,50k-100k,1BHK,Simple,2.1,5.32,Cash,34
+Jul-15,>100k,1BHK,Fully Furnished,7.79,6.16,EMI,25
+Aug-15,<50k,2BHK,Fully Furnished,6.82,2.92,EMI,30
+Aug-15,50k-100k,1BHK,Fully Furnished,6.7,6.21,Cash,35
+Aug-15,>100k,1BHK,Fully Furnished,3.94,7.7,Cash,28
+Sep-15,<50k,2BHK,Fully Furnished,7.9,3.22,EMI,32
+Sep-15,50k-100k,1BHK,Simple,5.41,7.72,EMI,38
+Sep-15,>100k,1BHK,Fully Furnished,5.93,2.52,EMI,36
+Oct-15,<50k,2BHK,Simple,9.04,6.3,EMI,33
+Oct-15,50k-100k,3BHK,Fully Furnished,8.52,3.42,Cash,35
+Oct-15,>100k,1BHK,Fully Furnished,6.05,7.35,Cash,31
+Nov-15,<50k,1BHK,Simple,6.96,5.43,Cash,30
+Nov-15,50k-100k,3BHK,Fully Furnished,6.32,2.6,Cash,34
+Nov-15,>100k,2BHK,Simple,8.87,5.93,Cash,25
+Dec-15,<50k,2BHK,Simple,6.67,3.88,Cash,30
+Dec-15,50k-100k,3BHK,Fully Furnished,6.28,3.06,EMI,35
+Dec-15,>100k,2BHK,Simple,2.83,3.56,Cash,28
+Jan-16,<50k,3BHK,Fully Furnished,5.94,2.85,Cash,32
+Jan-16,50k-100k,3BHK,Simple,4.19,2.54,Cash,38
+Jan-16,>100k,1BHK,Fully Furnished,8.03,6.3,Cash,36
+Feb-16,<50k,2BHK,Fully Furnished,5.25,4.6,EMI,33
+Feb-16,50k-100k,3BHK,Fully Furnished,8.72,5.14,EMI,35
+Feb-16,>100k,2BHK,Fully Furnished,9.75,2.46,EMI,31
+Mar-16,<50k,1BHK,Simple,9.96,7.2,EMI,30
+Mar-16,50k-100k,1BHK,Fully Furnished,1.65,2.93,EMI,34
+Mar-16,>100k,1BHK,Simple,6.72,6.57,EMI,25
+Apr-16,<50k,1BHK,Fully Furnished,7.19,7.41,EMI,30
+Apr-16,50k-100k,1BHK,Simple,3.26,5.79,EMI,35
+Apr-16,>100k,2BHK,Fully Furnished,4.52,7.34,Cash,28
+May-16,<50k,1BHK,Fully Furnished,9.5,2.44,EMI,32
+May-16,50k-100k,2BHK,Simple,4.26,3.88,EMI,38
+May-16,>100k,1BHK,Simple,8.75,4.97,Cash,36
+Jun-16,<50k,3BHK,Fully Furnished,8.78,2.57,EMI,33
+Jun-16,50k-100k,3BHK,Fully Furnished,1.69,6.8,Cash,35
+Jun-16,>100k,2BHK,Fully Furnished,6.3,2.28,EMI,31
+Jul-16,<50k,2BHK,Fully Furnished,1.09,4.68,Cash,30
+Jul-16,50k-100k,2BHK,Fully Furnished,4.31,5.93,EMI,30
+Jul-16,>100k,1BHK,Simple,6.44,4.11,EMI,30
+Aug-16,<50k,1BHK,Fully Furnished,8.8,4.12,EMI,35
+Aug-16,50k-100k,3BHK,Simple,6.08,5.23,Cash,31
+Aug-16,>100k,3BHK,Simple,9.8,6.03,EMI,32
+Sep-16,<50k,3BHK,Simple,2.6,5.04,EMI,38
+Sep-16,50k-100k,1BHK,Fully Furnished,8.51,3.71,Cash,36
+Sep-16,>100k,2BHK,Fully Furnished,1.77,7.79,Cash,33
+Oct-16,<50k,1BHK,Fully Furnished,9.88,2.74,EMI,35
+Oct-16,50k-100k,3BHK,Fully Furnished,4.34,3.43,Cash,31
+Oct-16,>100k,1BHK,Fully Furnished,9.89,3.18,Cash,30
+Nov-16,<50k,3BHK,Simple,2.62,4,Cash,34
+Nov-16,50k-100k,1BHK,Simple,1.85,2.41,Cash,30
+Nov-16,>100k,3BHK,Simple,7.91,7.62,EMI,34
+Dec-16,<50k,2BHK,Simple,5.09,3.6,Cash,30
+Dec-16,50k-100k,2BHK,Fully Furnished,9.19,2.1,EMI,30
+Dec-16,>100k,3BHK,Fully Furnished,3.29,6.12,Cash,35
+Jan-17,<50k,1BHK,Simple,6.98,4,EMI,31
+Jan-17,50k-100k,1BHK,Fully Furnished,9.71,5.91,EMI,32
+Jan-17,>100k,1BHK,Simple,9.03,3.72,EMI,38
+Feb-17,<50k,2BHK,Fully Furnished,8.78,7.61,EMI,36
+Feb-17,50k-100k,3BHK,Fully Furnished,7.97,3.81,Cash,33
+Feb-17,>100k,2BHK,Simple,3.35,6.33,Cash,35
+Mar-17,<50k,2BHK,Simple,5.29,7.74,Cash,31
+Mar-17,50k-100k,2BHK,Fully Furnished,5.36,4.78,EMI,30
+Mar-17,>100k,3BHK,Fully Furnished,4.13,2.73,EMI,34
+Apr-17,<50k,1BHK,Fully Furnished,3.55,3.53,Cash,30
+Apr-17,50k-100k,1BHK,Fully Furnished,7.45,4.4,Cash,30
+Apr-17,>100k,3BHK,Simple,8.91,3.14,Cash,35
+May-17,<50k,1BHK,Simple,7.27,7.36,EMI,31
+May-17,50k-100k,2BHK,Simple,7.14,2.65,EMI,32
+May-17,>100k,3BHK,Fully Furnished,4.79,3.13,EMI,38
+Jun-17,<50k,1BHK,Simple,1.71,3.16,Cash,36
+Jun-17,50k-100k,2BHK,Simple,6.74,4.98,EMI,33
+Jun-17,>100k,2BHK,Fully Furnished,9.35,3.59,Cash,35
+Jul-17,<50k,1BHK,Simple,5.52,3.07,Cash,31
+Jul-17,50k-100k,3BHK,Simple,2.02,4.01,EMI,30
+Jul-17,>100k,3BHK,Fully Furnished,7.16,7.3,EMI,34
+Aug-17,<50k,3BHK,Simple,4.55,6.79,EMI,30
+Aug-17,50k-100k,3BHK,Fully Furnished,6.14,2.56,EMI,30
+Aug-17,>100k,1BHK,Simple,3.94,5.23,Cash,35
+Sep-17,<50k,1BHK,Simple,4.33,5.5,Cash,31
+Sep-17,50k-100k,2BHK,Fully Furnished,7.98,4.7,EMI,32
+Sep-17,>100k,3BHK,Simple,9.3,4.07,EMI,38
+Oct-17,<50k,1BHK,Simple,8.06,3.83,Cash,36
+Oct-17,50k-100k,3BHK,Simple,4.71,3.38,Cash,33
+Oct-17,>100k,2BHK,Fully Furnished,5.48,4.6,EMI,35
+Nov-17,<50k,1BHK,Fully Furnished,5.27,4.57,Cash,31
+Nov-17,50k-100k,3BHK,Fully Furnished,7.81,3.91,Cash,30
+Nov-17,>100k,1BHK,Simple,6.01,4.05,EMI,34
+Dec-17,<50k,1BHK,Simple,8.41,7.44,EMI,30
+Dec-17,50k-100k,3BHK,Fully Furnished,6.23,5.16,Cash,30
+Dec-17,>100k,2BHK,Fully Furnished,2.41,3.44,EMI,35
+Jan-18,<50k,3BHK,Fully Furnished,6.3,4.14,Cash,31
+Jan-18,50k-100k,3BHK,Fully Furnished,9.62,5.72,EMI,32
+Jan-18,>100k,1BHK,Simple,3.45,6.63,Cash,38
+Feb-18,<50k,3BHK,Simple,6.44,6.67,Cash,36
+Feb-18,50k-100k,2BHK,Simple,8.28,6.03,Cash,33
+Feb-18,>100k,3BHK,Simple,4.76,4.13,Cash,35
+Mar-18,<50k,1BHK,Simple,4.11,4.84,EMI,31
+Mar-18,50k-100k,2BHK,Fully Furnished,3.63,6.29,EMI,30
+Mar-18,>100k,3BHK,Fully Furnished,2.48,7.21,EMI,34
+Apr-18,<50k,1BHK,Simple,7.51,2.56,EMI,30
+Apr-18,50k-100k,1BHK,Simple,7.97,7.35,EMI,30
+Apr-18,>100k,1BHK,Fully Furnished,8.79,6.03,EMI,35
+May-18,<50k,2BHK,Fully Furnished,4.31,6.32,Cash,31
+May-18,50k-100k,3BHK,Fully Furnished,6.42,4.09,Cash,32
+May-18,>100k,1BHK,Simple,6.53,2.6,EMI,38
+Jun-18,<50k,3BHK,Simple,7.15,3.65,EMI,36
+Jun-18,50k-100k,2BHK,Fully Furnished,8.09,6.54,Cash,33
+Jun-18,>100k,3BHK,Simple,9.38,4.33,EMI,35
+Jul-18,<50k,1BHK,Fully Furnished,7.01,4.73,Cash,31
+Jul-18,50k-100k,3BHK,Fully Furnished,1.19,3.52,EMI,30
+Jul-18,>100k,1BHK,Simple,6.01,5.09,Cash,34
+Aug-18,<50k,2BHK,Fully Furnished,9.23,6.96,Cash,30
+Aug-18,50k-100k,1BHK,Fully Furnished,6.98,2.43,Cash,30
+Aug-18,>100k,2BHK,Simple,5.07,3.36,EMI,35
+Sep-18,<50k,1BHK,Simple,2.54,3.6,Cash,31
+Sep-18,50k-100k,3BHK,Fully Furnished,7.24,5.25,Cash,32
+Sep-18,>100k,3BHK,Fully Furnished,3.45,2.69,EMI,38
+Oct-18,<50k,3BHK,Fully Furnished,6.31,3.9,EMI,36
+Oct-18,50k-100k,2BHK,Simple,6.35,6.73,Cash,33
+Oct-18,>100k,1BHK,Simple,8.57,6.44,EMI,35
+Nov-18,<50k,2BHK,Fully Furnished,1.98,4.2,EMI,31
+Nov-18,50k-100k,3BHK,Simple,7.78,3.38,EMI,30
+Nov-18,>100k,3BHK,Fully Furnished,3.66,4.47,EMI,34
+Dec-18,<50k,1BHK,Simple,7.68,4.95,EMI,30
+Dec-18,50k-100k,1BHK,Simple,5.61,5.39,Cash,30
+Dec-18,>100k,3BHK,Simple,1.7,3.94,Cash,35
+Jan-19,<50k,3BHK,Simple,4.57,7.38,EMI,31
+Jan-19,50k-100k,1BHK,Fully Furnished,7.3,4.81,EMI,32
+Jan-19,>100k,2BHK,Fully Furnished,2.43,6.21,Cash,38
+Feb-19,<50k,3BHK,Fully Furnished,8.17,6.47,EMI,36
+Feb-19,50k-100k,2BHK,Simple,3.31,5.49,Cash,33
+Feb-19,>100k,2BHK,Simple,4.13,6.33,Cash,35
+Mar-19,<50k,1BHK,Fully Furnished,1.53,3.54,EMI,31
+Mar-19,50k-100k,2BHK,Fully Furnished,8.46,3.61,EMI,30
+Mar-19,>100k,3BHK,Fully Furnished,2.33,4.65,Cash,75
+Apr-19,<50k,1BHK,Fully Furnished,8.82,4.82,Cash,80
+Apr-19,50k-100k,1BHK,Fully Furnished,4.58,3.81,EMI,85
+Apr-19,>100k,1BHK,Simple,9.44,2.33,EMI,77
+May-19,<50k,2BHK,Simple,1.58,7.45,EMI,82
+May-19,50k-100k,2BHK,Fully Furnished,6.8,4.25,Cash,90
+May-19,>100k,2BHK,Fully Furnished,1.51,2.08,Cash,88
+Jun-19,<50k,1BHK,Simple,6.26,3.99,EMI,82
+Jun-19,50k-100k,1BHK,Fully Furnished,3.44,3.92,EMI,85
+Jun-19,>100k,1BHK,Simple,8.81,3.07,Cash,79
+Jul-19,<50k,3BHK,Simple,5.2,2.81,Cash,77
+Jul-19,50k-100k,2BHK,Fully Furnished,1.84,5.89,EMI,86
+Jul-19,>100k,2BHK,Fully Furnished,8.63,7.5,Cash,77
+Aug-19,<50k,2BHK,Simple,2.66,6.94,Cash,86
+Aug-19,50k-100k,2BHK,Simple,8.14,6.9,EMI,75
+Aug-19,>100k,2BHK,Fully Furnished,9.17,2.33,EMI,80
+Sep-19,<50k,3BHK,Simple,6.62,7.01,EMI,85
+Sep-19,50k-100k,3BHK,Simple,7.48,5.97,EMI,77
+Sep-19,>100k,1BHK,Simple,1.21,3.86,Cash,82
+Oct-19,<50k,2BHK,Fully Furnished,2.37,2.47,Cash,90
+Oct-19,50k-100k,1BHK,Fully Furnished,8.25,3.24,Cash,88
+Oct-19,>100k,3BHK,Fully Furnished,7.67,2.14,EMI,82
+Nov-19,<50k,1BHK,Simple,7.69,6.07,Cash,85
+Nov-19,50k-100k,1BHK,Fully Furnished,9.94,6.27,EMI,79
+Nov-19,>100k,2BHK,Fully Furnished,2.34,6.27,EMI,77
+Dec-19,<50k,1BHK,Simple,5.09,2.78,EMI,86
+Dec-19,50k-100k,1BHK,Fully Furnished,4.77,7.75,Cash,75
+Dec-19,>100k,3BHK,Fully Furnished,9.53,2.33,Cash,80
+Jan-20,<50k,2BHK,Simple,9.65,4.17,Cash,85
+Jan-20,50k-100k,1BHK,Fully Furnished,2.54,7.17,Cash,77
+Jan-20,>100k,1BHK,Simple,2,7.03,Cash,82
+Feb-20,<50k,2BHK,Simple,6.12,7.57,Cash,90
+Feb-20,50k-100k,1BHK,Simple,7.79,3.24,EMI,88
+Feb-20,>100k,2BHK,Simple,8.66,3.17,EMI,82
+Mar-20,<50k,3BHK,Simple,9.61,3.92,Cash,85
+Mar-20,50k-100k,2BHK,Simple,7.34,5.51,Cash,79
+Mar-20,>100k,3BHK,Simple,6.06,3.23,EMI,77
+Apr-20,<50k,1BHK,Simple,9.5,7.43,EMI,86
+Apr-20,50k-100k,3BHK,Simple,7.13,5.33,EMI,75
+Apr-20,>100k,1BHK,Fully Furnished,8.8,4.85,EMI,80
+May-20,<50k,3BHK,Fully Furnished,4.32,4.53,EMI,85
+May-20,50k-100k,3BHK,Simple,6.65,5.63,EMI,77
+May-20,>100k,1BHK,Fully Furnished,7.05,7.7,EMI,82
+Jun-20,<50k,1BHK,Fully Furnished,1.83,3.77,EMI,90
+Jun-20,50k-100k,1BHK,Simple,2.01,4.34,Cash,88
+Jun-20,>100k,1BHK,Simple,2.21,3.09,EMI,82
+Jul-20,<50k,2BHK,Simple,2.53,5.14,EMI,85
+Jul-20,50k-100k,1BHK,Fully Furnished,3.25,2.67,Cash,79
+Jul-20,>100k,1BHK,Simple,3.43,3.75,Cash,77
+Aug-20,<50k,2BHK,Simple,1.78,2.68,Cash,86
+Aug-20,50k-100k,2BHK,Fully Furnished,8.54,5.24,Cash,75
+Aug-20,>100k,2BHK,Fully Furnished,8.95,3.08,EMI,80
+Sep-20,<50k,1BHK,Fully Furnished,3.69,7.84,Cash,85
+Sep-20,50k-100k,2BHK,Simple,9.29,7.53,EMI,77
+Sep-20,>100k,1BHK,Fully Furnished,1.49,6.09,EMI,82
+Oct-20,<50k,2BHK,Simple,3.71,4.65,Cash,90
+Oct-20,50k-100k,1BHK,Fully Furnished,5.8,2.73,EMI,88
+Oct-20,>100k,2BHK,Simple,1.13,5.17,Cash,82
+Nov-20,<50k,1BHK,Fully Furnished,2.41,4.95,EMI,85
+Nov-20,50k-100k,2BHK,Simple,3.2,4.31,Cash,79
+Nov-20,>100k,1BHK,Simple,3.45,6.3,Cash,77
+Dec-20,<50k,1BHK,Simple,3.7,4.93,EMI,86
+Dec-20,50k-100k,3BHK,Fully Furnished,1.02,6.49,EMI,75
+Dec-20,>100k,2BHK,Simple,1,3.18,EMI,80
+Jan-21,<50k,1BHK,Simple,3.83,7.17,Cash,85
+Jan-21,50k-100k,3BHK,Simple,4.72,5.83,Cash,77
+Jan-21,>100k,2BHK,Simple,8.92,7.68,EMI,82
+Feb-21,<50k,3BHK,Fully Furnished,6.17,6.77,EMI,90
+Feb-21,50k-100k,2BHK,Fully Furnished,8.21,3.67,EMI,88
+Feb-21,>100k,1BHK,Fully Furnished,1.5,5.72,Cash,82
+Mar-21,<50k,1BHK,Fully Furnished,1.93,7.31,EMI,85
+Mar-21,50k-100k,2BHK,Simple,8.99,5.65,EMI,79
+Mar-21,>100k,2BHK,Simple,1.86,3.42,Cash,77
+Apr-21,<50k,3BHK,Simple,9.15,6.22,Cash,86
+Apr-21,50k-100k,2BHK,Simple,9.81,4.1,EMI,75
+Apr-21,>100k,2BHK,Fully Furnished,2.78,5.79,Cash,80
+May-21,<50k,1BHK,Simple,4.52,2.89,EMI,85
+May-21,50k-100k,2BHK,Simple,6.44,6.85,EMI,77
+May-21,>100k,2BHK,Simple,7.04,2.22,EMI,82
+Jun-21,<50k,3BHK,Fully Furnished,9.69,2.61,Cash,90
+Jun-21,50k-100k,1BHK,Simple,9.59,2.07,Cash,88
+Jun-21,>100k,3BHK,Fully Furnished,6.12,5.22,EMI,82
+Jul-21,<50k,2BHK,Simple,9.01,3.08,EMI,85
+Jul-21,50k-100k,3BHK,Simple,3.57,6.24,Cash,79
+Jul-21,>100k,2BHK,Fully Furnished,5.91,7.47,Cash,77
+Aug-21,<50k,3BHK,Simple,4.79,6.13,Cash,86
+Aug-21,50k-100k,3BHK,Simple,9.42,2.69,Cash,75
+Aug-21,>100k,1BHK,Fully Furnished,7.47,3.72,EMI,80
+Sep-21,<50k,3BHK,Fully Furnished,2.65,7.89,Cash,85
+Sep-21,50k-100k,3BHK,Fully Furnished,7.09,4.24,Cash,77
+Sep-21,>100k,2BHK,Simple,1.24,2.95,EMI,82
+Oct-21,<50k,3BHK,Simple,7.17,7.25,Cash,90
+Oct-21,50k-100k,3BHK,Fully Furnished,5.76,7,Cash,88
+Oct-21,>100k,1BHK,Simple,5.07,3.22,EMI,82
+Nov-21,<50k,3BHK,Fully Furnished,5.85,3.59,EMI,85
+Nov-21,50k-100k,3BHK,Fully Furnished,5.12,7.42,Cash,79
+Nov-21,>100k,2BHK,Fully Furnished,8.43,5.67,Cash,77
+Dec-21,<50k,2BHK,Simple,5.76,3.21,Cash,50
+Dec-21,50k-100k,2BHK,Fully Furnished,6.33,4.21,Cash,55
+Dec-21,>100k,1BHK,Simple,1.87,2.99,EMI,60
+Jan-22,<50k,3BHK,Fully Furnished,2.17,2.29,Cash,52
+Jan-22,50k-100k,1BHK,Fully Furnished,2.93,2.41,Cash,58
+Jan-22,>100k,3BHK,Fully Furnished,8.94,3.79,EMI,65
+Feb-22,<50k,1BHK,Fully Furnished,2.65,5.01,Cash,62
+Feb-22,50k-100k,2BHK,Fully Furnished,3.19,6.09,Cash,58
+Feb-22,>100k,1BHK,Simple,6.36,4.71,EMI,60
+Mar-22,<50k,2BHK,Fully Furnished,5.56,5.26,Cash,55
+Mar-22,50k-100k,1BHK,Fully Furnished,8.28,3.82,Cash,52
+Mar-22,>100k,3BHK,Simple,9.02,6.29,EMI,58
+Apr-22,<50k,3BHK,Simple,1.03,3.75,EMI,52
+Apr-22,50k-100k,3BHK,Fully Furnished,4.67,4.85,Cash,58
+Apr-22,>100k,1BHK,Fully Furnished,8.34,4.35,EMI,50
+May-22,<50k,3BHK,Simple,1.01,2.06,EMI,55
+May-22,50k-100k,1BHK,Simple,1.99,4.06,EMI,60
+May-22,>100k,3BHK,Simple,6.58,7.05,EMI,52
+Jun-22,<50k,2BHK,Fully Furnished,4.96,7.45,EMI,58
+Jun-22,50k-100k,2BHK,Fully Furnished,9.99,3.09,Cash,65
+Jun-22,>100k,2BHK,Simple,7.58,7.49,Cash,62
+Jul-22,<50k,2BHK,Simple,5.2,4.96,Cash,58
+Jul-22,50k-100k,2BHK,Fully Furnished,3.85,6.58,EMI,60
+Jul-22,>100k,3BHK,Simple,5.83,5.07,Cash,55
+Aug-22,<50k,1BHK,Fully Furnished,5.51,7.26,EMI,52
+Aug-22,50k-100k,3BHK,Simple,6.79,2.11,EMI,58
+Aug-22,>100k,3BHK,Fully Furnished,6.58,2.69,Cash,50
+Sep-22,<50k,3BHK,Fully Furnished,5.38,2.73,Cash,55
+Sep-22,50k-100k,2BHK,Fully Furnished,9.86,7.14,Cash,60
+Sep-22,>100k,3BHK,Simple,5.01,3.72,EMI,52
+Oct-22,<50k,3BHK,Fully Furnished,6.91,7.8,Cash,58
+Oct-22,50k-100k,1BHK,Fully Furnished,5.54,5.92,EMI,65
+Oct-22,>100k,2BHK,Simple,8.42,7.67,EMI,62
+Nov-22,<50k,1BHK,Fully Furnished,6.22,5.3,EMI,58
+Nov-22,50k-100k,2BHK,Fully Furnished,5.52,4.44,Cash,60
+Nov-22,>100k,3BHK,Simple,9.39,6.67,EMI,55
+Dec-22,<50k,1BHK,Simple,4.05,4.93,Cash,52
+Dec-22,50k-100k,2BHK,Simple,2.55,7.43,Cash,58
+Dec-22,>100k,3BHK,Fully Furnished,8.27,3.23,Cash,50
+Jan-23,<50k,2BHK,Fully Furnished,6.42,3.5,Cash,55
+Jan-23,50k-100k,2BHK,Fully Furnished,5.67,3.4,EMI,60
+Jan-23,>100k,2BHK,Fully Furnished,9.72,7.66,EMI,52
+Feb-23,<50k,3BHK,Fully Furnished,1.47,6.27,EMI,58
+Feb-23,50k-100k,2BHK,Fully Furnished,8.86,6.47,Cash,65
+Feb-23,>100k,1BHK,Simple,1.11,6.1,Cash,62
+Mar-23,<50k,2BHK,Simple,7.45,5.02,Cash,58
+Mar-23,50k-100k,3BHK,Simple,1.15,3.09,EMI,60
+Mar-23,>100k,2BHK,Simple,3.59,2.78,EMI,55
+Apr-23,<50k,1BHK,Simple,2.28,6.19,EMI,52
+Apr-23,50k-100k,3BHK,Simple,5.37,7.34,Cash,58
+Apr-23,>100k,1BHK,Simple,5.18,3.78,Cash,50
+May-23,<50k,2BHK,Fully Furnished,2.64,4.66,Cash,55
+May-23,50k-100k,1BHK,Fully Furnished,8.82,6.15,Cash,60
+May-23,>100k,1BHK,Fully Furnished,7.04,6.12,EMI,52
+Jun-23,<50k,1BHK,Fully Furnished,2.71,3.78,EMI,58
+Jun-23,50k-100k,3BHK,Fully Furnished,1.27,4.58,EMI,65
+Jun-23,>100k,2BHK,Simple,9.04,2.09,EMI,62
+Jul-23,<50k,3BHK,Fully Furnished,7.18,3.67,EMI,58
+Jul-23,50k-100k,1BHK,Simple,8.51,7.86,EMI,60
+Jul-23,>100k,1BHK,Fully Furnished,2.33,2.89,Cash,55
+Aug-23,<50k,2BHK,Simple,2.51,2.55,EMI,52
+Aug-23,50k-100k,3BHK,Fully Furnished,8.4,6.6,Cash,58
+Aug-23,>100k,1BHK,Fully Furnished,4.38,3.99,EMI,50
+Sep-23,<50k,3BHK,Simple,3.9,5.74,Cash,55
+Sep-23,50k-100k,2BHK,Fully Furnished,6.79,2.32,Cash,60
+Sep-23,>100k,2BHK,Fully Furnished,9.69,5.78,Cash,52
+Oct-23,<50k,3BHK,Fully Furnished,3.58,5.51,Cash,58
+Oct-23,50k-100k,3BHK,Fully Furnished,3.03,4.01,Cash,65
+Oct-23,>100k,1BHK,Simple,2.72,5.91,EMI,62
+Nov-23,<50k,2BHK,Simple,3.61,3.28,EMI,58
+Nov-23,50k-100k,3BHK,Fully Furnished,1.47,2.64,EMI,60
+Nov-23,>100k,3BHK,Simple,7.57,7.61,Cash,55
+Dec-23,<50k,2BHK,Simple,4.39,6.64,Cash,52
+Dec-23,50k-100k,3BHK,Simple,7.77,7.02,Cash,58
+Dec-23,>100k,3BHK,Fully Furnished,5.61,2.33,Cash,50
